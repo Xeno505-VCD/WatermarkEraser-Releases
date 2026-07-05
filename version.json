@@ -1,5 +1,5 @@
 {
-  "version": "2.5",
-  "changelog": "v2.5 Initial Release\n- Watermark removal / Mosaic / Logo overlay\n- CN/EN language switch\n- 10 artistic fonts\n- Zoom/pan keeps mask overlay",
+  "version": "2.8",
+  "changelog": "v2.8 Update\n- Added image upscaling workflow for larger export sizes\n- Added canvas fitting exports for desktop, mobile, and social sizes\n- Improved top navigation with arrow-based paging\n- Improved mask drawing behavior for smoother manual editing\n\nNote: this public repository contains update metadata only, not source code or program files.",
   "download_url": "https://github.com/Xeno505-VCD/WatermarkEraser-Releases/releases"
 }
